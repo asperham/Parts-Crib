@@ -6,6 +6,10 @@ Repository Created!
 -----------
 Proposal Compleated. Link: https://github.com/asperham/Parts-Crib/blob/master/Documentation/ProjectProposal%20Colin%20LeDonne%20Parts%20Crib.pdf
 
-(Week3) Spet/19/19
+(Week3) Sept/19/19
 ------------
 Schedule Compleated Link: https://github.com/asperham/Parts-Crib/blob/master/Documentation/Colin%20Project%20Schedual.mpp
+
+(Week4) Sept/24/19
+-----------
+Budget Compleated Link: https://github.com/asperham/Parts-Crib/blob/master/Documentation/Budget.xlsx
