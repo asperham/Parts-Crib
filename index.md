@@ -13,3 +13,7 @@ Schedule Compleated [Link](https://github.com/asperham/Parts-Crib/blob/master/Do
 (Week4) Sept/26/19
 -----------
 Budget Compleated [Link](https://github.com/asperham/Parts-Crib/blob/master/Documentation/Budget.xlsx)
+
+(Week5) Oct/3/19
+-----------
+Parts have been ordered and the proof of purchase is as follows: 
