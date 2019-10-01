@@ -16,4 +16,6 @@ Budget Compleated [Link](https://github.com/asperham/Parts-Crib/blob/master/Docu
 
 (Week5) Oct/3/19
 -----------
-Parts have been ordered and the proof of purchase is as follows: 
+Parts have been ordered and the proof of purchase is as follows: [Sensor](https://github.com/asperham/Parts-Crib/blob/master/Images/Sensor.png)
+[V2 link](https://github.com/asperham/Parts-Crib/blob/master/Images/V2.png)
+[M32 breakout](https://github.com/asperham/Parts-Crib/blob/master/Images/M32.png)
