@@ -17,6 +17,7 @@ Budget Compleated [Link](https://github.com/asperham/Parts-Crib/blob/master/Docu
 (Week5) Oct/3/19
 -----------
 Parts have been ordered and the proof of purchase is as follows:
+
 Sensor:
 ![Image of Sensor](https://github.com/asperham/Parts-Crib/blob/master/Images/Sensor.png)
 
