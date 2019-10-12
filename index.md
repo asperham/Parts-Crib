@@ -4,15 +4,15 @@ Parts have been ordered and the proof of purchase is as follows:
 
 Sensor:
 
-![Image of Sensor](https://github.com/asperham/Parts-Crib/blob/master/Images/Sensor.png)
+![Image of Sensor](https://raw.githubusercontent.com/asperham/Parts-Crib/blob/master/Images/Sensor.png)
 
 V2 Link:
 
-![Image of V2 link](https://github.com/asperham/Parts-Crib/blob/master/Images/V2.png)
+![Image of V2 link](https://raw.githubusercontent.com/asperham/Parts-Crib/blob/master/Images/V2.png)
 
 BluePill:
 
-![Image of M32 breakout](https://github.com/asperham/Parts-Crib/blob/master/Images/M32.png)
+![Image of M32 breakout](https://raw.githubusercontent.com/asperham/Parts-Crib/blob/master/Images/M32.png)
 
 (Week4) Sept/26/19
 -----------
