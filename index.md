@@ -1,3 +1,7 @@
+(Week7) Oct/17/19
+----------
+Breadboard, PCB, and Schematics all have been made. [Link](https://github.com/asperham/Parts-Crib/tree/master/Electronics)
+
 (Week5) Oct/3/19
 -----------
 Parts have been ordered and the proof of purchase is as follows:
