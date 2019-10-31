@@ -1,7 +1,13 @@
 (Week 8) Oct/31/19
 ----------
 Breadboard Milestone
-Breadboard has been completed and is functioning: 
+Breadboard has been completed and is functioning. One thing to note is that there is no output screen since the STM32 does not have a serial console; so I can only show the breadboard working.
+Link to the code for the STM32: [Link](https://github.com/asperham/Parts-Crib/blob/master/Software/hardware_project/hardware_project.ino)
+
+The following pictures are the breadboard:
+![Image of breadboard Off](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Electronics/breadboard%20off.jpg)
+![Image of breadboard On](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Electronics/breadboard%20on.jpg)
+
 
 Progress Report: 
 Everything is going on track and I have gotten the STM32 bluepill and used it to complete my breadboard. I had some issues while getting my breadboard to work since the STM32 was not able to find the sensor. This was fixed by setting up the I2C pins on the STM32 and I had to fix some of my soldering. I had some help from my partner Rob in order to do this. No notable changes have currently been made to the project. 
