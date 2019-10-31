@@ -1,3 +1,11 @@
+(Week 8) Oct/31/19
+----------
+Breadboard Milestone
+Breadboard has been completed and is functioning: 
+
+Progress Report: 
+Everything is going on track and I have gotten the STM32 bluepill and used it to complete my breadboard. 
+
 (Week7) Oct/17/19
 ----------
 Breadboard, PCB, and Schematics all have been made. [Link](https://github.com/asperham/Parts-Crib/tree/master/Electronics)
