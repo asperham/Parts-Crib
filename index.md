@@ -10,7 +10,7 @@ The following pictures are the breadboard:
 
 
 Progress Report: 
-Everything is going on track and I have gotten the STM32 bluepill and used it to complete my breadboard. I had some issues while getting my breadboard to work since the STM32 was not able to find the sensor. This was fixed by setting up the I2C pins on the STM32 and I had to fix some of my soldering. I had some help from my partner Rob in order to do this. No notable changes have currently been made to the project. 
+Everything is going on track and I have gotten the STM32 bluepill and used it to complete my breadboard. I had some issues while getting my breadboard to work since the STM32 was not able to find the sensor. This was fixed by setting up the I2C pins on the STM32 and I had to fix some of my soldering. I had some help from my partner Rob in order to do this. The only notable change I made to the project is that I changed the PCB design. I realized that my older design would not have functioned as intended and now, after fixing it, the board should run as intended. Link to the updated PCB designs can be found here: [Link](https://github.com/asperham/Parts-Crib/tree/master/Electronics) 
 
 (Week7) Oct/17/19
 ----------
