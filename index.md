@@ -1,3 +1,12 @@
+(Week 9) Nov/07/19
+----------
+PCB Soldering. The following is the complete soldering: 
+![Image of Top PCB](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Electronics/PCB%20top.jpg)
+![Image if Bottom PCB](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Electronics/PCB%20bottom.jpg)
+
+Progress Report: 
+Everything on the PCB was fine expect the connection from the resistor to ground was printed on the top of the board instead of the bottom. To fix this, I simply soldered the wire from the resistor to the ground pin on the bottom of the board. This can be seen in the images from above. All connections are fine as there is no resistance from power to ground which means there are no shorts in the PCB. The project is on time and no notable changes have been made to the overall project. 
+
 (Week 8) Oct/31/19
 ----------
 Breadboard Milestone
