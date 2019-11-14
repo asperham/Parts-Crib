@@ -7,6 +7,7 @@ Following is when there is something (My Phone) infront of the proximity sensor:
 ![Image of PCB On](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Electronics/PCB%20Working.jpg)
 
 Progress Report: 
+
 Everything is working as intended so far on the PCB. Today my professor noted how to use the serial monitor with the STM32 and I will try to get that working sometime this week. It will be useful to see the serial monitor as the code outputs the distance from the proximity sensor to the serial monitor. This means I can see the exact values for how far something is away form the sensor and I wont have to guess the number to put into the code. This will be especially useful when designing my case as I need to make sure that the sensor does not detect the case, but will detect something outside of the case (i.e a phone). I am currently working on a case for my PCB and should have it printed by next week. No notable changes have been made to the budget or overall project. As long as I get my case done by next week, everything will be on schedual according to the proposal. 
 
 
