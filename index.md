@@ -1,3 +1,13 @@
+(Week 11) Nov/20/19
+-------
+Enclosure has been compleated and the following image is from autoCAD which is where the object was crated
+Link to stl and dwg files 
+[STL File](https://github.com/asperham/Parts-Crib/blob/master/Mechanical/CaseDrawing2.stl)
+[DWG File](https://github.com/asperham/Parts-Crib/blob/master/Mechanical/CaseDrawing2.dwg)
+![Image of Drawing](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Mechanical/part.png)
+
+
+
 (Week 10) Nov/14/19
 ---------
 PCB Powered up and is working. 
