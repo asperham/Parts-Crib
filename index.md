@@ -8,6 +8,8 @@ Link to stl and dwg files
 
 [DWG File](https://github.com/asperham/Parts-Crib/blob/master/Mechanical/CaseDrawing2.dwg)
 
+[!Image of Case] (https://raw.githubusercontent.com/asperham/Parts-Crib/master/Mechanical/Case.jpg)
+
 ![Image of Drawing](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Mechanical/part.png)
 
 Progress Report:
