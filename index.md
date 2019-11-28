@@ -1,3 +1,8 @@
+(Week 12) Nov/28/19
+-------
+presentation has been compleated. [Link to pres](https://github.com/asperham/Parts-Crib/blob/master/Documentation/Sensor%20Pres.pptx)
+
+
 (Week 11) Nov/20/19
 -------
 Enclosure has been compleated and the following image is from autoCAD which is where the object was crated
