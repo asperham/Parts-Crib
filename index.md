@@ -2,6 +2,13 @@
 -------
 presentation has been compleated. [Link to pres](https://github.com/asperham/Parts-Crib/blob/master/Documentation/Sensor%20Pres.pptx)
 
+Progress Report:
+
+Everything is on scedule and no notable changes have been made to the budget. I got the output to work properly and I can see the output through putty. This makes it easier to code the distance tolerance to turn on LED. 
+
+![Image of Output](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Images/Ouput.png)
+
+
 
 (Week 11) Nov/20/19
 -------
