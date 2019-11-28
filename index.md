@@ -1,3 +1,22 @@
+(Week 11) Nov/20/19
+-------
+Enclosure has been compleated and the following image is from autoCAD which is where the object was crated
+
+Link to stl and dwg files 
+
+[STL File](https://github.com/asperham/Parts-Crib/blob/master/Mechanical/CaseDrawing2.stl)
+
+[DWG File](https://github.com/asperham/Parts-Crib/blob/master/Mechanical/CaseDrawing2.dwg)
+
+![Image of Case](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Mechanical/Case.jpg)
+
+![Image of Drawing](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Mechanical/part.png)
+
+Progress Report:
+
+Everything is currently up to date and the case was printed and fits my PCB well. To make the 3D model, I used AutoDesk Inventor and AutoCAD. I first made the model in Inventor then expoted it to AutoCAD so I could then export it as a STL file. The only problem I had is that the PCB is mounted to the case woth 4 M3 6mm machine screws. In Inventor, I used the hole command to thred the inside of the cylinders that hold the PCB up and allows me to screw the PCB to the case. However, because of the ammount of time I can use at the 3d printer, I had to increase the layer size which didnt thred the holes properly. To fix this I used a treading drill bit and threded the holes myself. 
+No notable changes have been made to the budget or plan. 
+
 (Week 10) Nov/14/19
 ---------
 PCB Powered up and is working. 
