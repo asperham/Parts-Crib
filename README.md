@@ -1,7 +1,7 @@
 # Parts-Crib/Luminosity Sensor Build Instructions
 
 # Introduction 
-![Image of BreadBoard](blob:null/aa8c28ac-045e-4a62-9c98-775e0080e9d7)
+![Image of BreadBoard](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Images/BreadBoard.png)
 
 # Materials Required
 
