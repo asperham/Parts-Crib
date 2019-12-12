@@ -14,6 +14,10 @@ The materials requred for this project are the STM32, a V2 link, the VCNL 4010, 
 ![Image of Budget](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Images/Budget%20pic.png)
 
 # Time Commitment
+This project can relaistically be compleated in a couple of weeks as it does not require a lot of waiting. The only things that will take the most time will be waiting for the parts, creating the PCB, and soldering. However, you can refer to the following time scedule: 
+
+![Image of schedule](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Images/schedule.png)
+
 
 # Mechanical Assembly
 
