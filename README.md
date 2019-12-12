@@ -20,6 +20,13 @@ This project can relaistically be compleated in a couple of weeks as it does not
 
 
 # Mechanical Assembly
+For the mechanical assembly we first need to test and create the breadboard. You can use the following design for the breadboard: 
+![Image of breadboard](https://github.com/asperham/Parts-Crib/blob/master/Images/BreadBoard.png)
+Ensure that you have to proper pins connected. From here you can connect the V2 link into your computer by connecting the correspoding pins to the STM32. From here you can load the following code onto the STM32:
+
+![Link to code](https://github.com/asperham/Parts-Crib/blob/master/Software/hardware_project/hardware_project.ino)
+
+
 
 # PCB / Soldering
 
