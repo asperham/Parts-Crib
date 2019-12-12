@@ -41,7 +41,11 @@ For the PCB, we need to ensure that all pins are connected properly, For the PCB
 
 For this to be created we need the gerber files which can be found ![From this link](https://github.com/asperham/Parts-Crib/tree/master/Electronics/Colin%20Gerber)
 
+Once we have the PCB created we can now solder the parts to the PCB. Ensure that you are properly safty trained before using a soldering iron. we are only going to solder the pins we need to be attached to the PCB however, you can still solder all of the pins to the PCB if you wish. Once compleated, the PCB should look somthing like the following:
 
+![image if PCB](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Electronics/PCB%20working%202.jpg)
+
+Once all parts are soldered we can now trim the pins on the bottom of the PCB so we can put in into the case, but befor we do this, we need to make sure that the PCB works properly.
 
 # Power Up
 
