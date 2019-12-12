@@ -26,7 +26,12 @@ Ensure that you have to proper pins connected. From here you can connect the V2 
 
 ![Link to code](https://github.com/asperham/Parts-Crib/blob/master/Software/hardware_project/hardware_project.ino)
 
+From here you can you can put your hand infront of the VCNL4010 and the LED should turn on. If it does not, make sure that you initialize the I2C pins by importing the Wire.h header file and putting Wire.begin(); at the beginning of the code. 
 
+From here we can now create the case for out PCB which will be made in the next step. The case will look like the following: 
+
+[!image of case](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Mechanical/part.png)
+The files for the case can be found here: [!Link to case files](https://github.com/asperham/Parts-Crib/blob/master/Mechanical/CaseDrawing2.stl)
 
 # PCB / Soldering
 
