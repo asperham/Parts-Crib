@@ -6,6 +6,8 @@ This project utilizes the STM32, a V2 link, blue pill and the VCNL 4010 proximit
 The following is a schematic of the breadboard:
 ![Image of BreadBoard](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Images/Schematic.png)
 
+The VCNL 4010 has a SCL and a SDA pins which we will connect to the I2C pin on the 4010 which are B6 and B7 respectively. The we can connect an LED to one of the output pins on the STM32 such as A1. The connections and setup will be covered on further detail in the Mechanocal Assembly section of this manuel.  
+
 # Materials Required
 
 # Time Commitment
