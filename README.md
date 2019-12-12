@@ -64,3 +64,4 @@ To test the unit, we can connect a micro USB to USB cable to the STM32 and conne
 The closer you get to the proximity sensor, the value of proximity gets higher and the value of ambient gets lower. These are unitless measurments so you are gunna have to play around with the tolerance you wish to use to turn on the LED. To do this, simply change the values of the if statment near the bottom of the code. 
 
 # Production Testing
+To test the viability of production for this unit, you can see what the total cost, and total time it takes to produce this product. For me, it took about 3 months working on it once a week with a total cost 
