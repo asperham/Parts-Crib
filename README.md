@@ -30,8 +30,8 @@ From here you can you can put your hand infront of the VCNL4010 and the LED shou
 
 From here we can now create the case for out PCB which will be made in the next step. The case will look like the following: 
 
-[!image of case](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Mechanical/part.png)
-The files for the case can be found here: [!Link to case files](https://github.com/asperham/Parts-Crib/blob/master/Mechanical/CaseDrawing2.stl)
+![image of case](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Mechanical/part.png)
+The files for the case can be found here: ![Link to case files](https://github.com/asperham/Parts-Crib/blob/master/Mechanical/CaseDrawing2.stl)
 
 # PCB / Soldering
 
