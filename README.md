@@ -59,7 +59,7 @@ From here we can now connect the PCB to the case we made earlier. To do this we 
 # Unit Testing
 To test the unit, we can connect a micro USB to USB cable to the STM32 and connect it to a computer. On the computer, go to device manager to see what COM port the STM32 is connected to and take note. We can the use putty to connect to the serial output from the COM port of the STM32. From this, we can see actual values from the STM32. It should look like the following: 
 
-[!image of output](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Images/Ouput.png)
+![image of output](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Images/Ouput.png)
 
 The closer you get to the proximity sensor, the value of proximity gets higher and the value of ambient gets lower. These are unitless measurments so you are gunna have to play around with the tolerance you wish to use to turn on the LED. To do this, simply change the values of the if statment near the bottom of the code. 
 
