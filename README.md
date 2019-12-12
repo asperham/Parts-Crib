@@ -32,6 +32,7 @@ From here we can now create the case for out PCB which will be made in the next 
 
 ![image of case](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Mechanical/part.png)
 The files for the case can be found here: ![Link to case files](https://github.com/asperham/Parts-Crib/blob/master/Mechanical/CaseDrawing2.stl)
+The file is an STL file which needs to be sliced in software such as Cure before we can 3d print it. Once we slice it make sure that you add supports and fill the wall by about 50%. After this we can proceed to print the case. After it has completed and the breadboard works, we can move onto the next step.
 
 # PCB / Soldering
 
