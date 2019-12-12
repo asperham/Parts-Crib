@@ -9,7 +9,7 @@ The following is a schematic of the breadboard:
 The VCNL 4010 has a SCL and a SDA pins which we will connect to the I2C pin on the 4010 which are B6 and B7 respectively. The we can connect an LED to one of the output pins on the STM32 such as A1. The connections and setup will be covered on further detail in the Mechanocal Assembly section of this manuel.  
 
 # Materials Required
-The materials requred for this project are the STM32, a V2 link, the VCNL 4010, an LED, a resisor, PCB, and materials for 3D printing. You can refer to the following budget for materials: 
+The materials requred for this project are the STM32, a V2 link, the VCNL 4010, an LED, a resisor, PCB, M3 machine screws, and materials for 3D printing. You can refer to the following budget for materials: 
 
 ![Image of Budget](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Images/Budget%20pic.png)
 
@@ -52,7 +52,9 @@ Before you power up the PCB connect it to a multimeter with it connected to the 
 
 ![image of PCB on](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Electronics/PCB%20Working.jpg)
 
+From here we can now connect the PCB to the case we made earlier. To do this we need to make four holes on the corners of the PCB 7mm from each edge. Use a M3 machine screw drill bit since we will be using M3 machine screws to connect the PCB to the case. Once you made the holes, you can screw the PCB to the case and it should look like the following:
 
+![Image of Case](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Mechanical/Case.jpg)
 
 # Unit Testing
 
