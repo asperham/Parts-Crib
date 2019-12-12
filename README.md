@@ -45,9 +45,14 @@ Once we have the PCB created we can now solder the parts to the PCB. Ensure that
 
 ![image if PCB](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Electronics/PCB%20working%202.jpg)
 
-Once all parts are soldered we can now trim the pins on the bottom of the PCB so we can put in into the case, but befor we do this, we need to make sure that the PCB works properly.
+Once all parts are soldered we can now trim the pins on the bottom of the PCB so we can put in into the case, but before we do this, we need to make sure that the PCB works properly.
 
 # Power Up
+Before you power up the PCB connect it to a multimeter with it connected to the power and ground. Ensure that you do not get any reading. If you get a reading, it means that you created a short. Check the soldering and make sure you did not create any uninteded connections. If you did, you can simply use a solder sucker to fix it. If you do not get a reading, we can now power it up. After poweing it up we can test that the PCB still works by putting out hand infront of the proximity sensor and it should look like the following: 
+
+![image of PCB on](https://raw.githubusercontent.com/asperham/Parts-Crib/master/Electronics/PCB%20Working.jpg)
+
+
 
 # Unit Testing
 
